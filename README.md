@@ -18,7 +18,7 @@
 
 Halo! Namaku **Indah Ruwahna**, mahasiswa **Informatika (3IKRB)** di Universitas Putra Bangsa.
 
-Aku tertarik pada dunia **Frontend Development** — membangun tampilan web yang menarik, responsif, dan ramah pengguna. Selain kuliah, aku aktif di **UKM Mapala** dengan fokus **Speleologi** dan **Navigasi Darat**.
+Aku tertarik pada dunia **Frontend Development** — membangun tampilan web yang menarik, responsif, dan ramah pengguna. Selain kuliah, aku aktif di **UKM Mapala** dengan fokus **Navigasi Darat** dan juga komunitas IT Putra Bangsa
 
 Saat ini, aku sedang mengembangkan **Portal Wisata Alam Goa Asrep** — proyek nyata yang menggabungkan teknologi web dengan pariwisata berkelanjutan.
 ```
