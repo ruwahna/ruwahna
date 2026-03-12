@@ -24,9 +24,9 @@ Saat ini, aku sedang mengembangkan **Portal Wisata Alam Goa Asrep** — proyek n
 ```
 📍 Lokasi     : Indonesia
 🎓 Kampus     : Universitas Putra Bangsa
-📚 Jurusan    : Informatika — Semester 3 (3IKRB)
-💡 Minat      : Frontend Dev, UI/UX, Sustainable Tech
-🏔️ Komunitas  : UKM Mapala (Speleologi & Navigasi Darat)
+📚 Jurusan    : Informatika — Semester 4 
+💡 Minat      : Frontend Dev & UI/UX
+🏔️ Komunitas  : IT Putra Bangsa
 🎯 Tujuan     : Jadi developer yang berdampak
 ```
 
@@ -66,23 +66,6 @@ Figma       ███████░░░░░░░░░  45% 🎨 Mulai lan
 Python      ██████░░░░░░░░░░  40% 🐍 Belajar serius
 Java        █████░░░░░░░░░░░  35% ☕ Dasar kuat
 ```
-
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=12"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=midnight-purple&border_radius=12"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=midnight-purple&border_radius=12)
-
-</div>
 
 ---
 
@@ -126,9 +109,24 @@ Java        █████░░░░░░░░░░░  35% ☕ Dasar kuat
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/@indahruwahna-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/INSTAGRAM_KAMU)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LINKEDIN_KAMU)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_KAMU)
+<a href="https://instagram.com/i.anugraheni">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/indahruwahna">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:indahruwahnaanugraheni@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/085233749306">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://tiktok.com/@indah01_13">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+<a href="https://github.com/ruwahna">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -138,7 +136,7 @@ Java        █████░░░░░░░░░░░  35% ☕ Dasar kuat
 
 > *"Kode yang baik bukan hanya yang berjalan — tapi yang bisa dimengerti orang lain."* 💜
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME_KAMU&color=7c3aed&style=flat-square&label=Profile+Dilihat)
+![Profile Views](https://komarev.com/ghpvc/?username=ruwahna&color=7c3aed&style=flat-square&label=Profile+Dilihat)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
