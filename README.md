@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Halo!+Aku+Indah+Ruwahna+%F0%9F%91%8B;Mahasiswa+Informatika+Semester+3+%F0%9F%8E%93;Suka+bikin+tampilan+web+yang+cakep+%F0%9F%92%BB;Anggota+UKM+Mapala+%7C+Speleologi+%26+Navigasi+%F0%9F%A7%AD;Sedang+belajar+%26+terus+berkembang+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Halo!+Aku+Indah+Ruwahna+%F0%9F%91%8B;Mahasiswa+Informatika+Semester+4+%F0%9F%8E%93;Suka+bikin+tampilan+web+yang+cakep+%F0%9F%92%BB;Anggota+UKM+Mapala+%7C+Speleologi+%26+Navigasi+%F0%9F%A7%AD;Sedang+belajar+%26+terus+berkembang+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
