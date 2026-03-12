@@ -16,7 +16,7 @@
 
 ### 👤 Siapa Aku?
 
-Halo! Namaku **Indah Ruwahna**, mahasiswa **Informatika (3IKRB)** di Universitas Putra Bangsa.
+Halo! Namaku **Indah Ruwahna**, mahasiswa **Informatika** di Universitas Putra Bangsa.
 
 Aku tertarik pada dunia **Frontend Development** — membangun tampilan web yang menarik, responsif, dan ramah pengguna. Selain kuliah, aku aktif di **UKM Mapala** dengan fokus **Navigasi Darat** dan juga komunitas IT Putra Bangsa
 
