@@ -180,15 +180,11 @@ Goal:
 
 ---
 
-# 👾 Pacman Contribution
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/pacman.svg">
-
-<br>
-
-🎮 Eating Contributions Since 2025
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
