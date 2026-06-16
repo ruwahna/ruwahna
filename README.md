@@ -184,7 +184,7 @@ Goal:
 
 <div align="center">
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+![Cute Snake Animation](https://raw.githubusercontent.com/ruwahna/ruwahna/output/github-snake-dark.svg)
 
 </div>
 
