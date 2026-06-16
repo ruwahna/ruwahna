@@ -10,9 +10,7 @@
 
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ruwahna&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=ruwahna&theme=tokyonight&no-frame=true)
 
 ---
 
