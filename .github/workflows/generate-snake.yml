@@ -1,18 +1,18 @@
-name: generate animation
+name: Generate Pacman Light
 
 on:
-  # Jalankan secara otomatis setiap 24 jam
+  # Berjalan otomatis setiap 24 jam
   schedule:
     - cron: "0 0 * * *" 
   
-  # Jalankan secara manual
+  # Mengizinkan menjalankan workflow secara manual via tab Actions
   workflow_dispatch:
   
-  # Jalankan setiap kali ada push ke branch main
+  # Berjalan setiap kali ada push di branch main
   push:
     branches:
     - main
-    
+
 jobs:
   generate:
     permissions: 
@@ -21,17 +21,18 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Membuat game ular dari grafik kontribusi GitHub, output gambar SVG
+      # Membuat animasi Pacman tema terang (light)
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ruwahna  # Ganti dengan username Anda jika perlu
+          github_user_name: ruwahna
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            # Baris di bawah ini sekarang menghasilkan gambar tema terang default
-            dist/github-contribution-grid-snake-dark.svg
-
-      # Commit dan dorong hasilnya ke branch output
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=yellow
+            dist/github-contribution-grid-snake-dark.svg?palette=github-light&color_snake=yellow
+        env:
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
+          
+      # Push hasil ke branch 'output'
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
