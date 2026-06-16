@@ -183,9 +183,8 @@ Goal:
 # 🐍 Contribution Snake
 
 <div align="center">
-
-![Cute Snake Animation](https://raw.githubusercontent.com/ruwahna/ruwahna/output/github-snake-dark.svg)
-
+  <!-- Menggunakan branch output yang digenerate oleh GitHub Actions -->
+  <img src="https://raw.githubusercontent.com/ruwahna/ruwahna/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
