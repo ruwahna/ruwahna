@@ -10,8 +10,6 @@
 
 </div>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ruwahna&theme=tokyonight&no-frame=true)
-
 ---
 
 # 👩‍💻 About Me
